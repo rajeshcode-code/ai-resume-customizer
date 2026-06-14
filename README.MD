@@ -2,7 +2,7 @@
 
 An intelligent Full-Stack Web Application that analyzes a Job Description (JD) and a candidate's resume, utilizing Google's Gemini LLM to automatically tailor the resume for maximum ATS compatibility.
 
-**Live Demo:** [View Application Here](ai-resume-customizer-five.vercel.app)
+**Live Demo:** [View Application Here](https://ai-resume-customizer-five.vercel.app)
 
 ---
 
